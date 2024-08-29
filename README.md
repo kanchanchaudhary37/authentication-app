@@ -14,9 +14,10 @@ pnpm dev
 bun dev
 ```
 
-Login password for dashobard
+## Login password for dashobard
 
 username: user1
+
 password: password1
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
